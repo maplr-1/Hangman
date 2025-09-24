@@ -1,3 +1,8 @@
+ ### Hangman (Python CLI Game)
+A simple command-line Hangman game written in Python.
+- The program randomly selects a word and lets the player guess letters or the full word within a limited number of tries and words for the input.
+- for every word it has 7 tries.
+
 # Project Structure
 ```
 .
